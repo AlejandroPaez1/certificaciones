@@ -1,4 +1,4 @@
-# certificaciones
+# certificaciones 🎖
 ## Primera Ruta: Creando Filtros para Instagram con Spark AR, Photoshop y Python Básico
 
 En esa primera ruta, me sumergí en la emocionante aventura de crear mis propios filtros para Instagram. Aprendí a utilizar Spark AR, una herramienta poderosa que me permitió dar vida a efectos y filtros interactivos, permitiéndome plasmar mis ideas creativas en la plataforma de una manera única.
