@@ -1,11 +1,10 @@
 # certificaciones 🎖
+## Certificados de Oracle One + Alura
+- "Aprender a aprender: tecnicas para tu autodesarrollo" 
+
 ## Primera Ruta: Creando Filtros para Instagram con Spark AR, Photoshop y Python Básico
 
 En esa primera ruta, me sumergí en la emocionante aventura de crear mis propios filtros para Instagram. Aprendí a utilizar Spark AR, una herramienta poderosa que me permitió dar vida a efectos y filtros interactivos, permitiéndome plasmar mis ideas creativas en la plataforma de una manera única.
-
-Además, perfeccioné mis habilidades de edición de imágenes y diseño gráfico en Photoshop, lo que fue crucial para crear elementos visuales llamativos en mis filtros.
-
-En cuanto a Python, comencé desde cero, dominando los fundamentos de la programación en este lenguaje. Esto me proporcionó una base sólida para la automatización de tareas y la manipulación de datos, habilidades esenciales para la creación de filtros personalizados.
 
 ## Segunda Ruta: Desarrollo Front-End y Habilidades Complementarias
 
