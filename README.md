@@ -1,6 +1,8 @@
 # certificaciones 🎖
 ## Certificados de Oracle One + Alura
+- "Lógica de programación: sumérgete en la programación con JavaScript" 
 - "Aprender a aprender: tecnicas para tu autodesarrollo" 
+- "Foco: Enfocarse trae más resultados para el día a día" 
 
 ## Primera Ruta: Creando Filtros para Instagram con Spark AR, Photoshop y Python Básico
 
